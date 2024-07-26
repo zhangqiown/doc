@@ -3,17 +3,19 @@
 layout: home
 
 hero:
-  name: "dake-doc"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "大可不必"
+  text: "日常学习笔记"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: vue3学习文档
+      link: /vue3
     - theme: alt
-      text: API Examples
-      link: /api-examples
-
+      text: react学习文档
+      link: /react
+    - theme: brand
+      text: three.js学习文档
+      link: /three
+      
 features:
   - title: Feature A
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
