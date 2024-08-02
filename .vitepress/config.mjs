@@ -11,7 +11,8 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'vue3', link: '/vue3' },
       { text: 'react', link: '/react' },
-      { text: 'three', link: '/three.js' }
+      { text: 'three', link: '/three' },
+      { text: '日常记录', link: '/dailyRecord' },
     ],
 
     // sidebar: [

@@ -15,6 +15,9 @@ hero:
     - theme: brand
       text: three.js学习文档
       link: /three
+    - theme: dailyRecord
+      text: 日常记录
+      link: /dailyRecord
       
 features:
   - title: Feature A

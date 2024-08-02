@@ -233,9 +233,11 @@ n 材料; 物质; 物质资料; 物质基础
 // 只能设置一种颜色
 const material = new THREE.MeshBasicMaterial({ color: 0x00ff00 });
 ```
+::: tip 
 color 反射光
 emissive 自发光
 map 贴图 
+:::
 
 ::: info mesh /meʃ/
 n. 网孔，网眼，网状物; 陷阱，困境; [机]（齿轮的）啮合
